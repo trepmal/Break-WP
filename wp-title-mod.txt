@@ -1,0 +1,1 @@
+Fatal error if plugin is active and you switch to Twenty Twelve
