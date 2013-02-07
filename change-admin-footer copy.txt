@@ -1,1 +1,0 @@
-Triggers fatal error on activation (typo'd class name). Cannot be activated.

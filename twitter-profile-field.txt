@@ -1,1 +1,0 @@
-Causes "headers already sent" warning with extra whitespace at the end of the plugin

@@ -1,1 +1,0 @@
-Causes "headers already sent" warning with invisible/non-printable character at beginning of file
