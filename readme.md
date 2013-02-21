@@ -17,3 +17,11 @@ Causes "headers already sent" warning with extra whitespace at the end of the pl
 WP Title Mod
 ------------
 Fatal error if plugin is active and you switch to Twenty Twelve
+
+Broken Theme
+------------
+*Not sure of the specifics*
+
+Test Child
+----------
+Three scenarios as page templates. *Not sure of the specifics*
