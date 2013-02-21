@@ -1,0 +1,92 @@
+/*
+ *
+ * @package Stripay
+ * 
+ */
+
+body {
+	background-color:#f297ad;
+}
+h1.entry-title a {	
+	color:#ce0081;
+}
+h1.entry-title a:hover {
+	color:#ce0081;	
+}
+a {
+	color: #ce0081;
+}
+a:hover,
+a:focus,
+a:active{
+	color: #f5632b;
+}
+#masthead {
+	background:#464646 url(../images/stripes-fuschia.gif) top left no-repeat;
+	border-bottom:2px solid #ff677e;		
+}
+h1.site-title a {
+	color:#FFF;
+}
+h1.site-title a:hover {
+	color:#81d29b;
+}
+h2.site-description {
+	color:#FFF;
+}
+#masthead img {
+	border-top:2px solid #ff677e;
+}
+#access a {
+	color: #FFF;
+}
+#access ul ul {
+	background:#464646;
+}
+#access ul ul a {
+	background: #464646;
+	border-bottom: 1px solid #FFF;
+	color:#81d29b;
+}
+#access li:hover > a,
+#access ul ul :hover > a,
+#access a:focus {
+	background: #FFF;
+}
+#access li:hover > a,
+#access a:focus {
+	background: #464646; 
+	color:#81d29b;
+}
+#access .current-menu-item > a,
+#access .current-menu-ancestor > a,
+#access .current_page_item > a,
+#access .current_page_ancestor > a {
+	color:#81d29b;
+}
+#secondary ul li a {
+	color:#404040;
+}
+#secondary ul li a:hover {
+	color:#f5632b;
+}
+#secondary .widget-title {
+	border-left: 30px solid #ce0081;
+	color:#ce0081;
+}
+.edit-link a {
+	color:#FFF;
+	background:#81d29b;
+}
+.edit-link a:hover {
+	background:#f5632b;
+}
+.entry-meta {
+	border-bottom:1px solid #ce0081;
+}
+footer.entry-meta {
+	border-top:1px solid #ce0081;
+}
+.site-footer {
+	border-top:2px solid #ff677e;
+}

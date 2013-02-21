@@ -1,0 +1,94 @@
+/*
+ *
+ * @package Stripay
+ * 
+ * 
+ */
+
+body {
+	background-color:#7aa124;
+}
+h1.entry-title a {	
+	color:#0a3a4a;
+}
+h1.entry-title a:hover {
+	color:#60b4d4;	
+}
+a {
+	color: #196674;
+}
+a:hover,
+a:focus,
+a:active{
+	color: #9ac836;
+}
+#masthead {
+	background:#464646 url(../images/stripes-green.gif) top left no-repeat;
+	border-bottom:2px solid #9ac836;		
+}
+h1.site-title a {
+	color:#FFF;
+}
+h1.site-title a:hover {
+	color:#60b4d4;
+}
+h2.site-description {
+	color:#FFF;
+}
+#masthead img {
+	border-top:2px solid #9ac836;
+}
+#access a {
+	color: #FFF;
+}
+#access ul ul {
+	background:#464646;
+}
+#access ul ul a {
+	background: #464646;
+	border-bottom: 1px solid #FFF;
+	color:#60b4d4;
+}
+#access li:hover > a,
+#access ul ul :hover > a,
+#access a:focus {
+	background: #FFF;
+}
+#access li:hover > a,
+#access a:focus {
+	background: #464646; 
+	color:#60b4d4;
+}
+#access .current-menu-item > a,
+#access .current-menu-ancestor > a,
+#access .current_page_item > a,
+#access .current_page_ancestor > a {
+	color:#60b4d4;
+}
+#secondary ul li a {
+	color:#404040;
+}
+#secondary ul li a:hover {
+	color:#196674;
+}
+#secondary .widget-title {
+	border-left: 30px solid #0a3a4a;
+	color:#0a3a4a;
+}
+.edit-link a {
+	color:#FFF;
+	background:#0a3a4a;
+}
+.edit-link a:hover {
+	background:#60b4d4;
+	color:#0a3a4a;
+}
+.entry-meta {
+	border-bottom:1px solid #0a3a4a;
+}
+footer.entry-meta {
+	border-top:1px solid #0a3a4a;
+}
+.site-footer {
+	border-top:2px solid #9ac836;
+}

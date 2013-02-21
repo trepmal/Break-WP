@@ -1,0 +1,87 @@
+/**
+ * @package Stripey
+ */
+
+.clear {
+	clear: both;
+	width: 100%;
+}
+.wp-caption .wp-caption-text {
+	color: #404040;
+}
+.entry img {
+	max-width: 620px;
+}
+.alignleft, .aligncenter, .alignright {
+	padding:3px;
+	border:1px solid #DDD;
+}
+.alignleft {
+	display: inline;
+	float: left;
+	margin-right: 1.5em;	
+}
+.alignright {
+	display: inline;
+	float: right;
+	margin-left: 1.5em;
+}
+.aligncenter {
+	clear: both;
+	display: block;
+	margin: 0 auto;
+}
+
+a img {
+	border: none 0px;
+}
+
+body {
+	font-family: Garamond, "Times New Roman", serif;
+	font-size: 15px;
+	line-height: 1.6;
+	background-color: #FFF;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+	color: #d64005;
+}
+hr {
+	background-color: #DDD;
+	border: 0;
+	height: 1px;
+	margin-bottom: 1.5em;
+}
+
+/* Captions */
+dd.wp-caption-text {
+	font-size: 11px;
+}
+.wp-caption {
+	border: 1px solid #ddd;
+	text-align: center;
+	background-color: #fff;
+	padding-top: 4px;
+	margin: 10px;
+	max-width: 620px;
+}
+.wp-caption.aligncenter {
+	margin-left: auto;
+	margin-right: auto;
+}
+.wp-caption img {
+	margin: 0;
+	padding: 0;
+	border: 0 none;
+	max-width: 620px;
+}
+.wp-caption p.wp-caption-text {
+	font-size: 11px;
+	line-height: 17px;
+	padding: 0 4px 5px;
+	margin: 0;
+	color: #333;
+}

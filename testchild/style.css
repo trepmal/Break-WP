@@ -1,0 +1,19 @@
+/*
+Theme Name: Test Child Theme
+Description: Test theme for training
+Template: twentytwelve
+*/
+
+@import url("../twentytwelve/style.css");
+
+/* Scenario Two */
+.page-template-template-senariotwo-php .site-content {
+	float: left;
+	width: 80%;
+}
+
+/* Scenario Three */
+.page-template-template-senariothree-php .widget-area {
+	float: none;
+	width: 26.041666667%;
+}
